@@ -1,0 +1,66 @@
+.container{
+    display: flex
+}
+.purple{
+    background:#293462}
+.light{
+    background:#FFF1C1}
+.red{
+    background:#A64942}
+.light-red{
+    background:#FE5F55}
+.relative{
+    position:relative}
+.absolute{
+    position:absolute}
+.move{
+    top:50px;
+    left:500px}
+.body{
+    background: #F0F7C6;
+    position: relative;
+    width: 1440px;
+    height: 1024px}
+.border{
+    border-bottom: 50px solid transparent}
+.round{
+    height:300px;
+    width:400px;
+    border-radius:45%}
+.round1{
+     height:150px;
+     width:150px;
+     border-radius:50%;
+     z-index:-1}
+.round2{
+    height:50px;
+    width:50px;
+    border-radius:50%}
+.round3{
+    height:20px;
+    width:20px;
+    border-radius:50%}
+.move-eye1{
+    bottom:200px;
+    left:10px}
+.move-eye2{
+    bottom:200px;
+    left:250px}
+.move-eye3{
+    bottom:250px;
+    left:60px}
+.move-eye4{
+    bottom:250px;
+    left:300px}
+.move-eye5{
+    bottom:265px;
+    left:75px}
+.move-eye6{
+    bottom:265px;
+    left:315px}
+.move-nose1{
+    bottom:120px;
+    left:160px}
+.move-nose2{
+    bottom:120px;
+    left:240px}
